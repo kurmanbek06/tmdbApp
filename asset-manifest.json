@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tmdbApp/static/css/main.9fd37bc7.css",
+    "main.js": "/tmdbApp/static/js/main.e73cc8d8.js",
+    "static/media/profile.jpg": "/tmdbApp/static/media/profile.6dd864abe822330df3a2.jpg",
+    "static/media/slick.svg": "/tmdbApp/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/tmdbApp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/tmdbApp/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/tmdbApp/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/tmdbApp/index.html",
+    "main.9fd37bc7.css.map": "/tmdbApp/static/css/main.9fd37bc7.css.map",
+    "main.e73cc8d8.js.map": "/tmdbApp/static/js/main.e73cc8d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fd37bc7.css",
+    "static/js/main.e73cc8d8.js"
+  ]
+}
